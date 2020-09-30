@@ -1,4 +1,4 @@
-Project: Super Tic Tac Toe
+Super Tic Tac Toe
 
 Version: 0.1.0
 
